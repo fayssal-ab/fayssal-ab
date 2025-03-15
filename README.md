@@ -111,17 +111,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/YUKINE-FAYSSAL/count.svg?"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/YUKINE-FAYSSAL/YUKINE-FAYSSAL/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/313y45xsgefuaprvwo2iw7hcvuxu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313y45xsgefuaprvwo2iw7hcvuxu&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
