@@ -106,11 +106,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YUKINE-FAYSSAL&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/YUKINE-FAYSSAL/count.svg?"  />
-</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YUKINE-FAYSSAL/YUKINE-FAYSSAL/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YUKINE-FAYSSAL/YUKINE-FAYSSAL/output/github-snake.svg" />
