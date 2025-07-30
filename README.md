@@ -1,12 +1,16 @@
-<h1 align="left"># 💫 About Me:</h1>
+<h1 align="left">💫 About Me</h1>
 
-###
+<h4 align="left">
+🎓 Computer Science & Networks student at EMSI<br>
+🚀 Full Stack Developer | React, Node.js, MongoDB, Flask, Docker<br>
+💡 Passionate about building scalable web apps and real-time systems<br>
+🔧 DevOps & Networking Enthusiast — VPS, Nginx, CI/CD<br>
+📌 Always learning, always building — let's connect!
+</h4>
 
-<h4 align="left">🚀 Full Stack Developer | Passionate about React, Node.js, and MongoDB<br>💡 Building web apps and creating awesome projects<br>📌 Check out my work & let’s connect!<br></h4>
+<hr>
 
-###
-
-<h2 align="left">## 🌐 Socials:</h2>
+<h2 align="left">🌐 Socials</h2>
 
 ###
 
