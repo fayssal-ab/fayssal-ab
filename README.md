@@ -2,7 +2,7 @@
 
 <h4 align="left">
 🎓 Computer Science & Networks student at EMSI<br>
-🚀 Full Stack Developer | React, Node.js, MongoDB, Flask, Docker<br>
+🚀 Full Stack Developer | React, Node.js, MongoDB, Mysql, Flask, Laravel, Tailwind, Docker<br>
 💡 Passionate about building scalable web apps and real-time systems<br>
 🔧 DevOps & Networking Enthusiast — VPS, Nginx, CI/CD<br>
 📌 Always learning, always building — let's connect!
